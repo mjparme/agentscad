@@ -9,9 +9,9 @@
  * Description: Metric screw thread modelisation
  * Author:      Gilles Bouissac
  */
-use <scad-utils/lists.scad>
-use <scad-utils/transformations.scad>
-use <list-comprehension-demos/skin.scad>
+use <../scad-utils/lists.scad>
+use <../scad-utils/transformations.scad>
+use <../list-comprehension-demos/skin.scad>
 use <mx-screw.scad>
 use <printing.scad>
 

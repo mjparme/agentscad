@@ -10,10 +10,10 @@
  * Author:      Gilles Bouissac
  */
  
-use <scad-utils/linalg.scad>
-use <agentscad/extensions.scad>
-use <list-comprehension-demos/skin.scad>
-use <scad-utils/transformations.scad>
+use <../scad-utils/linalg.scad>
+use <../scad-utils/transformations.scad>
+use <../agentscad/extensions.scad>
+use <../list-comprehension-demos/skin.scad>
 
 // ----------------------------------------
 //                  API

@@ -10,7 +10,7 @@
  * Design:      Gilles Bouissac
  * Author:      Gilles Bouissac
  */
-use <scad-utils/linalg.scad>
+use <../scad-utils/linalg.scad>
 
 // ----------------------------------------
 //                  API

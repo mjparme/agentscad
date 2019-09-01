@@ -12,7 +12,7 @@
  */
 
 use <extensions.scad>
-use <scad-utils/mirror.scad>
+use <../scad-utils/mirror.scad>
 
 RADIUSBEVEL        = 0.5; // Default radius bevel
 CUTTER_W           = 1;

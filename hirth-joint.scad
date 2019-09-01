@@ -9,8 +9,8 @@
  * Description: Hirth Joint modelisation
  * Author:      Gilles Bouissac
  */
-use <list-comprehension-demos/skin.scad>
-use <scad-utils/lists.scad>
+use <../list-comprehension-demos/skin.scad>
+use <../scad-utils/lists.scad>
 use <printing.scad>
 
 // ----------------------------------------
